@@ -40,6 +40,7 @@ h2, h4 {
 h1 {
     font-size: 7rem;
     line-height: 1.4;
+    text-shadow: 2.5px 2.5px 2.5px #3B5959;
 }
 h2 {
     font-size: 3.6rem;
